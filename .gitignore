@@ -21,3 +21,9 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+#node_modules
+node_modules
+package-lock.json
+DateExpand.iml
+dist
